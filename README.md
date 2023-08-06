@@ -1,2 +1,2 @@
-# Censys_IP_Extractor
+# Censys_Data_Extractor
 A Python utility for effective extraction and analysis of internet data through Censys.
